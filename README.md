@@ -1,5 +1,3 @@
-#Backend Challenge
-
 ##Database names
 The database chosen is MongoDB.
 The database name is customerOrder
